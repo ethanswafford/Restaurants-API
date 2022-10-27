@@ -1,1 +1,1 @@
-console.log("CONNECTED");
+console.log('https://restcountries.com/v3.1/all')
